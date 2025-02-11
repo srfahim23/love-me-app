@@ -57,6 +57,11 @@ export default function Home() {
           />
         </div>
       )}
+
+      {/* Footer */}
+      <footer className="text-center text-gray-500 text-sm font-semibold mt-8">
+        Build by FahimDev
+      </footer>
     </div>
   );
 }
